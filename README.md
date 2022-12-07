@@ -1,4 +1,4 @@
-## DIANA-DeepTSS - Deep learning computational framework for TSS identification
+## DeepTSS - Deep learning computational framework for TSS identification from CAGE data
 
 ### Prerequisites
 - Unix system
