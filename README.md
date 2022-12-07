@@ -1,4 +1,4 @@
-## DeepTSS - Deep learning computational framework for TSS identification from CAGE data
+## DeepTSS: Multi-branch Convolutional Neural Network for TSS identification from CAGE data
 
 ### Prerequisites
 - Unix system
