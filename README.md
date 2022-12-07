@@ -148,7 +148,7 @@ Dimitris Grigoriadis, Nikos Perdikopanis, Georgios K. Georgakilas and Artemis Ha
 
 
 ### Please cite
-(Under review)
+DeepTSS: Multi-branch Convolutional Neural Network for TSS identification from CAGE data (Accepted in BMC Bioinformatics 2022). Dimitris Grigoriadis, Nikos Perdikopanis, Georgios K. Georgakilas and Artemis G. Hatzigeorgiou
 
 
 ### License
